@@ -15,3 +15,6 @@ No.|Modul|Unduh
 
 - Setup Android Studio
 - Getting Started with React Native
+- React Native Components
+- React Native Elements
+- React Native Navigation
