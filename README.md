@@ -13,8 +13,10 @@ No.|Modul|Unduh
 
 ### Modul 4 Mobile Development:
 
-- Setup Android Studio
+- Initial Setup
 - Getting Started with React Native
-- React Native Components
+- React Native's Fundamental Development
+- React Native Basic Components
 - React Native Elements
 - React Native Navigation
+- Accessing API Using Axios
