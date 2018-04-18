@@ -20,3 +20,4 @@ No.|Modul|Unduh
 - React Native Elements
 - React Native Navigation
 - Accessing API Using Axios
+- Google Maps API
