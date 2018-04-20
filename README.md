@@ -15,9 +15,11 @@ No.|Modul|Unduh
 
 - Initial Setup
 - Getting Started with React Native
-- React Native's Fundamental Development
+- React Native Fundamental Development
 - React Native Basic Components
 - React Native Elements
 - React Native Navigation
+- React Native Animatable
+- NativeBase
 - Accessing API Using Axios
 - Google Maps API
