@@ -23,3 +23,5 @@ No.|Modul|Unduh
 - NativeBase
 - Accessing API Using Axios
 - Google Maps API
+- Local Push Notification
+- OneSignal Push Notification
